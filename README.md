@@ -1,2 +1,2 @@
 # Bangkit_exercise
-Learn how to use git hub
+I am editing the README file. Adding some more details about the project description.
